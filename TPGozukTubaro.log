@@ -427,3 +427,6 @@
 [2024-03-29 19:25:35] [ INFO ] [OdontologoService:83] Listando los odontologos
 [2024-03-29 19:25:59] [ INFO ] [TurnoService:139] Listando los turnos
 [2024-03-29 19:26:04] [ INFO ] [OdontologoService:83] Listando los odontologos
+[2024-03-29 19:43:46] [ INFO ] [PacienteService:34] Buscando paciente ID:13
+[2024-03-29 19:43:46] [ INFO ] [PacienteService:63] Borrando paciente
+[2024-03-29 19:43:46] [ INFO ] [PacienteService:68] Paciente borrado!

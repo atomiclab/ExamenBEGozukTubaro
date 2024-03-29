@@ -293,3 +293,134 @@
 [2024-03-29 14:13:03] [ INFO ] [TurnoService:139] Listando los turnos
 [2024-03-29 14:14:14] [ INFO ] [TurnoService:139] Listando los turnos
 [2024-03-29 14:14:51] [ INFO ] [TurnoService:139] Listando los turnos
+[2024-03-29 18:28:10] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:28:24] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:34:17] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:35:06] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:36:40] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:43:49] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:43:49] [ INFO ] [OdontologoService:89] Buscando por matrícula al odontólogo
+[2024-03-29 18:50:00] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:50:41] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:51:30] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:52:29] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula12344
+[2024-03-29 18:55:34] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula123444
+[2024-03-29 18:55:34] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:37
+[2024-03-29 18:55:34] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 18:55:34] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:37
+[2024-03-29 18:55:34] [ ERROR] [OdontologoService:76] No se encontro el odontologo con ID 37
+[2024-03-29 18:56:04] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula123444
+[2024-03-29 18:56:04] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:38
+[2024-03-29 18:56:04] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:50] Actualizando odontologo: 1234TEST
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:54] Odontologo actualizado!
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:40
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 18:58:21] [ ERROR] [OdontologoService:38] No se encontro el odontologo con el ID40
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:83] Listando los odontologos
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula123444
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:44
+[2024-03-29 18:58:21] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:34] Buscando paciente ID:26
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:48] Actualizando paciente
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:53] Paciente actualizado!
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:63] Borrando paciente
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:68] Paciente borrado!
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:34] Buscando paciente ID:27
+[2024-03-29 19:00:16] [ ERROR] [PacienteService:41] No se encontro el paciente con ID 27
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:34] Buscando paciente ID:28
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:50] Actualizando odontologo: 1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:54] Odontologo actualizado!
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:46
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 19:00:16] [ ERROR] [OdontologoService:38] No se encontro el odontologo con el ID46
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:83] Listando los odontologos
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula123444
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:50
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:139] Listando los turnos
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:84] Actualizando al turno
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:109] Turno actualizado
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:125] Eliminando turno ID: 14
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:129] Borrado con exito!
+[2024-03-29 19:00:16] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:16] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:16] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:34] Buscando paciente ID:35
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:48] Actualizando paciente
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:53] Paciente actualizado!
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:63] Borrando paciente
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:68] Paciente borrado!
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:34] Buscando paciente ID:36
+[2024-03-29 19:00:25] [ ERROR] [PacienteService:41] No se encontro el paciente con ID 36
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:34] Buscando paciente ID:37
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:50] Actualizando odontologo: 1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:54] Odontologo actualizado!
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:57
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 19:00:25] [ ERROR] [OdontologoService:38] No se encontro el odontologo con el ID57
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:83] Listando los odontologos
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula123444
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:69] Eliminando odontologo del ID:61
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:73] Se elimino el odontolgo!
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:139] Listando los turnos
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:84] Actualizando al turno
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:109] Turno actualizado
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:125] Eliminando turno ID: 18
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:129] Borrado con exito!
+[2024-03-29 19:00:25] [ INFO ] [OdontologoService:27] Guardando el odontologo de la matricula1234TEST
+[2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:40] Guardando un turno
+[2024-03-29 19:00:25] [ INFO ] [TurnoService:63] Turno guardado con exito!

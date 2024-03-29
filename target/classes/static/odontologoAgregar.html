@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Agregar odontologo</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/index.html">Clínica Dental</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestion odontologos
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="odontologoLista.html">Todos los odontologos</a>
+                    <a class="dropdown-item" href="odontologoAgregar.html">Agregar odontologos</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestion pacientes
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="pacienteLista.html">Listar pacientes</a>
+                    <a class="dropdown-item" href="pacienteAgregar.html">Agregar pacientes</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión turnos
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="turnoLista.html">Listar turnos</a>
+                    <a class="dropdown-item" href="turnoAgregar.html">Agregar turnos</a>
+                </div>
+            </li>
+
+        </ul>
+
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-sm-7">
+            <div class="card rounded p-4">
+                <h3 class="text-center mb-4">Agregar Odontólogos</h3>
+                <form id="add_new_dentist">
+                    <div class="form-group">
+                        <label class="control-label" for="nombre">Nombre:</label>
+                        <input type="text" class="form-control" id="nombre"
+                               placeholder="Ingrese el nombre"
+                               name="nombre" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="apellido">Apellido:</label>
+                        <input type="text" class="form-control" id="apellido"
+                               placeholder="Ingrese el apellido"
+                               name="apellido" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="matricula">Matrícula:</label>
+                        <input type="text" class="form-control" id="matricula"
+                               placeholder="Ingrese la matrícula"
+                               name="matricula" required>
+                    </div>
+                    <button type="submit" class="btn btn-danger btn-block"
+                            id="btn-add-new-dentist">Guardar</button>
+                </form>
+                <div id="response" class="text-center mt-3" style="display:none;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="bg-dark text-white py-4 fixed-bottom">
+    <div class="container text-center">
+        <p>&copy; 2024 Clínica Dental Sonrisas Sanas. Todos los derechos reservados.</p>
+    </div>
+</footer>
+
+</body>
+<script type="text/javascript" src="/js/odontologo/post_odontologo.js"></script>
+</html>

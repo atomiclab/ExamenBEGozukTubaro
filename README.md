@@ -35,6 +35,7 @@
 
 
 ### :camera: Screenshots
+Los datos son de referencia, agregados por los testeos, si se quiere limpiar la base, hay que borrar el archivo TPGozukTubaro.mv.db
 Home
 <div align="center"> <a href=""><img src="https://github.com/atomiclab/ExamenBEGozukTubaro/blob/main/Screenshots/clinica%201.png" alt='image' width='800'/></a> </div>
 Gestion de odontologos

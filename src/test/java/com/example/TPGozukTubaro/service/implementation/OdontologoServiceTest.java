@@ -67,7 +67,7 @@ class OdontologoServiceTest {
 
         assertTrue(odontologos.size() > 0);
     }
-    
+
     @Test
     void findByMatricula() {
         Odontologo odontologoTest = new Odontologo("NicolasL", "Testeo", "123444");

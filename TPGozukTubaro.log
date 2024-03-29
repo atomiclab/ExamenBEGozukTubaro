@@ -424,3 +424,6 @@
 [2024-03-29 19:00:25] [ INFO ] [PacienteService:28] Guardar paciente: TEST
 [2024-03-29 19:00:25] [ INFO ] [TurnoService:40] Guardando un turno
 [2024-03-29 19:00:25] [ INFO ] [TurnoService:63] Turno guardado con exito!
+[2024-03-29 19:25:35] [ INFO ] [OdontologoService:83] Listando los odontologos
+[2024-03-29 19:25:59] [ INFO ] [TurnoService:139] Listando los turnos
+[2024-03-29 19:26:04] [ INFO ] [OdontologoService:83] Listando los odontologos
